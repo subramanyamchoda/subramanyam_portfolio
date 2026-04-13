@@ -35,7 +35,7 @@ const Hero = () => {
   };
 
   const handleViewResume = () => {
-    window.open("/Subramanyam_Choda.pdf", "_blank");
+    window.open("/chodasubramanyam1.pdf", "_blank");
   };
 
   return (
